@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "EEE",
+        "EAE",
+        "EEE"
+    ],
+    
+    "key":
+    {
+        "E":
+        {
+            "item": "minecraft:spider_eye"
+        },
+        
+        "A":
+        {
+            "item": "minecraft:apple"
+        }
+    },
+    
+    "result":
+    {
+        "item": "tm:evil_apple",
+        "count": 1
+    }
+}
+

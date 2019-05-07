@@ -1,0 +1,35 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " R ",
+        " RN",
+        " S "
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "tm:ruby"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        },
+        
+        "N":
+        {
+            "item": "minecraft:gold_nugget"
+        }
+    },
+    
+    "result":
+    {
+        "item": "tm:ruby_sword",
+        "count": 1
+    }
+}
+
